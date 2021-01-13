@@ -1,0 +1,200 @@
+h1 {
+    color:red;
+    border : solid;
+    padding-left: 35%;
+}
+
+/*{border : solid}*/
+
+.header{
+    background-color: pink;
+}
+
+.text{
+    background-color: lightblue;
+    color: blue;
+    border : solid;
+}
+
+.game1 {
+    background-color: rgb(243, 198, 243);
+    color: rgb(238, 107, 238);
+    position: relative;
+    border : solid;
+}
+
+.game1 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+
+.game1:hover p{
+    opacity: 1;
+}
+
+.game1:hover img{
+    opacity: 0.5;
+}
+
+.game2 {
+    background-color: violet;
+    color: indigo;
+    position: relative;
+    border : solid;
+}
+
+.game2 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+
+.game2:hover p{
+    opacity: 1;
+}
+
+.game2:hover img{
+    opacity: 0.5;
+}
+
+.game3 {
+    background-color: lightblue;
+    color: blue;
+    position: relative;
+    border : solid;
+}
+
+.game3 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+
+.game3:hover p{
+    opacity: 1;
+}
+
+.game3:hover img{
+    opacity: 0.5;
+}
+
+.game4 {
+    background-color: lightgreen;
+    color: green;
+    position: relative;
+    border : solid;
+}
+
+.game4 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+
+.game4:hover p{
+    opacity: 1;
+}
+
+.game4:hover img{
+    opacity: 0.5;
+}
+
+.game5 {
+    background-color: lightyellow;
+    color: yellow;
+    position: relative;
+    border : solid;
+}
+
+.game5 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+
+.game5:hover p{
+    opacity: 1;
+}
+
+.game5:hover img{
+    opacity: 0.2;
+}
+
+.game6 {
+    background-color: rgb(250, 227, 184);
+    color: orange;
+    position: relative;
+    border : solid;
+}
+
+.game6 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+
+.game6:hover p{
+    opacity: 1;
+}
+
+.game6:hover img{
+    opacity: 0.2;
+}
+
+.game7 {
+    background-color: rgb(247, 177, 177);
+    color: red;
+    position: relative;
+    border : solid;
+}
+
+.game7 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+
+.game7:hover p{
+    opacity: 1;
+}
+
+.game7:hover img{
+    opacity: 0.2;
+}
+
+body {
+    background-color: #808080;
+    padding: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link{
+    color:blue;
+}
+
+a:visited{
+    color:red;
+}
+
+.aboutme{
+    padding-left: 800px;
+}
+
+.project{
+    margin-left: 800px;
+}
